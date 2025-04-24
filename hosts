@@ -3,66 +3,66 @@
 # CDN Url: https://gcore.jsdelivr.net/gh/zwrt/hosts@main/hosts
 # CDN Url: https://cdn.staticaly.com/gh/zwrt/hosts/main/hosts
 # DNS Servers: Aliyun Computing Co. Ltd
-# Update at: 2025-04-24 17:38:52
+# Update at: 2025-04-24 18:12:58
 # GitHub Hosts Start
-185.199.111.153 github.io
-140.82.114.4    github.com
+185.199.110.153 github.io
+140.82.113.4    github.com
 192.0.66.2      github.blog
 140.82.113.18   github.community
-140.82.114.6    api.github.com
-140.82.114.3    gist.github.com
-140.82.112.10   codeload.github.com
+140.82.112.6    api.github.com
+140.82.112.3    gist.github.com
+140.82.113.9    codeload.github.com
 140.82.113.22   central.github.com
 140.82.113.22   collector.github.com
 185.199.109.133 raw.github.com
-185.199.111.154 docs.github.com
+185.199.108.154 docs.github.com
                 assets-cdn.github.com
-185.199.110.133 raw.githubusercontent.com
+185.199.111.133 raw.githubusercontent.com
 185.199.109.133 camo.githubusercontent.com
-185.199.110.133 cloud.githubusercontent.com
-185.199.111.133 media.githubusercontent.com
-185.199.108.133 desktop.githubusercontent.com
+185.199.108.133 cloud.githubusercontent.com
+185.199.108.133 media.githubusercontent.com
+185.199.111.133 desktop.githubusercontent.com
 185.199.110.133 objects.githubusercontent.com
-185.199.108.133 favicons.githubusercontent.com
-185.199.109.133 avatars5.githubusercontent.com
-185.199.111.133 avatars4.githubusercontent.com
-185.199.110.133 avatars3.githubusercontent.com
-185.199.110.133 avatars2.githubusercontent.com
+185.199.111.133 favicons.githubusercontent.com
+185.199.110.133 avatars5.githubusercontent.com
+185.199.109.133 avatars4.githubusercontent.com
+185.199.109.133 avatars3.githubusercontent.com
+185.199.109.133 avatars2.githubusercontent.com
 185.199.109.133 avatars1.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
-185.199.108.133 avatars.githubusercontent.com
-185.199.109.133 user-images.githubusercontent.com
+185.199.109.133 avatars.githubusercontent.com
+185.199.111.133 user-images.githubusercontent.com
 4.249.131.160   copilot-proxy.githubusercontent.com
-185.199.111.154 github-releases.githubusercontent.com
+185.199.110.154 github-releases.githubusercontent.com
 13.107.42.16    pipelines.actions.githubusercontent.com
 20.246.184.240  pipelinesghubeus7.actions.githubusercontent.com
 185.199.111.153 githubstatus.com
-140.82.112.22   collector.githubapp.com
-185.199.109.154 github.githubassets.com
-185.199.108.153 analytics.githubassets.com
-185.199.108.133 github.map.fastly.net
+140.82.113.22   collector.githubapp.com
+185.199.110.154 github.githubassets.com
+185.199.109.153 analytics.githubassets.com
+185.199.110.133 github.map.fastly.net
 151.101.41.194  github.global.ssl.fastly.net
-3.5.0.110       github-cloud.s3.amazonaws.com
-52.217.194.73   github-com.s3.amazonaws.com
-16.182.32.17    github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.177.83   github-production-user-asset-6210df.s3.amazonaws.com
-3.5.21.64       github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.85.220   github-cloud.s3.amazonaws.com
+52.217.171.137  github-com.s3.amazonaws.com
+3.5.29.86       github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.212.17   github-production-user-asset-6210df.s3.amazonaws.com
+52.216.217.161  github-production-repository-file-5c1aeb.s3.amazonaws.com
 # GitHub Hosts End
 # Docker Hosts Start
-98.85.153.80    registry.hub.docker.com
+3.94.224.37     registry.hub.docker.com
 18.211.22.166   hub.docker.com
 140.82.113.34   ghcr.io
 142.251.179.82  gcr.io
 172.253.122.82  k8s.gcr.io
-35.173.153.15   quay.io
+54.156.181.77   quay.io
 # Docker Hosts End
 # TMM Hosts Start
-3.168.73.14     themoviedb.org
+3.168.73.124    themoviedb.org
 3.168.73.124    www.themoviedb.org
-18.164.124.55   api.themoviedb.org
-108.139.29.63   tmdb.org
-3.168.73.55     api.tmdb.org
-143.244.60.193  image.tmdb.org
+18.164.124.98   api.themoviedb.org
+108.139.29.48   tmdb.org
+3.168.73.124    api.tmdb.org
+169.150.236.97  image.tmdb.org
 104.21.14.73    opensubtitles.org
 104.21.14.73    www.opensubtitles.org
 104.21.14.73    api.opensubtitles.org
