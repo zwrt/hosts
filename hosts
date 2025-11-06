@@ -3,61 +3,61 @@
 # CDN Url: https://gcore.jsdelivr.net/gh/zwrt/hosts@main/hosts
 # CDN Url: https://cdn.staticaly.com/gh/zwrt/hosts/main/hosts
 # DNS Servers: Aliyun Computing Co. Ltd
-# Update at: 2025-11-06 13:39:52
+# Update at: 2025-11-06 14:19:08
 # GitHub Hosts Start
-185.199.111.153 github.io
-140.82.121.3    github.com
+185.199.109.153 github.io
+140.82.114.3    github.com
 192.0.66.2      github.blog
 140.82.113.18   github.community
-140.82.121.6    api.github.com
-140.82.121.3    gist.github.com
-140.82.121.9    codeload.github.com
+140.82.114.5    api.github.com
+140.82.114.3    gist.github.com
+140.82.113.10   codeload.github.com
 140.82.114.21   central.github.com
 140.82.114.21   collector.github.com
-185.199.108.133 raw.github.com
-185.199.109.154 docs.github.com
-185.199.110.133 raw.githubusercontent.com
-185.199.111.133 camo.githubusercontent.com
-185.199.111.133 cloud.githubusercontent.com
-185.199.109.133 media.githubusercontent.com
-185.199.111.133 desktop.githubusercontent.com
+185.199.109.133 raw.github.com
+185.199.110.154 docs.github.com
+185.199.108.133 raw.githubusercontent.com
+185.199.109.133 camo.githubusercontent.com
+185.199.109.133 cloud.githubusercontent.com
+185.199.110.133 media.githubusercontent.com
+185.199.110.133 desktop.githubusercontent.com
 185.199.108.133 objects.githubusercontent.com
-185.199.110.133 favicons.githubusercontent.com
+185.199.108.133 favicons.githubusercontent.com
 185.199.111.133 avatars5.githubusercontent.com
-185.199.111.133 avatars4.githubusercontent.com
+185.199.110.133 avatars4.githubusercontent.com
 185.199.108.133 avatars3.githubusercontent.com
 185.199.110.133 avatars2.githubusercontent.com
 185.199.109.133 avatars1.githubusercontent.com
-185.199.108.133 avatars0.githubusercontent.com
-185.199.109.133 avatars.githubusercontent.com
-185.199.111.133 user-images.githubusercontent.com
-20.250.119.64   copilot-proxy.githubusercontent.com
-185.199.111.154 github-releases.githubusercontent.com
+185.199.111.133 avatars0.githubusercontent.com
+185.199.111.133 avatars.githubusercontent.com
+185.199.109.133 user-images.githubusercontent.com
+138.91.182.224  copilot-proxy.githubusercontent.com
+185.199.108.154 github-releases.githubusercontent.com
 13.107.42.16    pipelines.actions.githubusercontent.com
 20.246.184.240  pipelinesghubeus7.actions.githubusercontent.com
 185.199.108.153 githubstatus.com
 140.82.114.21   collector.githubapp.com
-185.199.108.154 github.githubassets.com
-185.199.109.153 analytics.githubassets.com
+185.199.109.154 github.githubassets.com
+185.199.110.153 analytics.githubassets.com
 185.199.111.133 github.map.fastly.net
-146.75.117.194  github.global.ssl.fastly.net
-52.216.40.17    github-cloud.s3.amazonaws.com
-16.15.187.250   github-com.s3.amazonaws.com
-52.216.40.17    github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.40.17    github-production-user-asset-6210df.s3.amazonaws.com
-16.182.104.137  github-production-repository-file-5c1aeb.s3.amazonaws.com
+146.75.121.194  github.global.ssl.fastly.net
+52.216.88.227   github-cloud.s3.amazonaws.com
+54.231.198.105  github-com.s3.amazonaws.com
+16.182.35.81    github-production-release-asset-2e65be.s3.amazonaws.com
+54.231.202.169  github-production-user-asset-6210df.s3.amazonaws.com
+52.217.88.212   github-production-repository-file-5c1aeb.s3.amazonaws.com
 # GitHub Hosts End
 # Docker Hosts Start
-54.165.0.138    registry.hub.docker.com
-34.193.253.120  hub.docker.com
-54.204.180.78   registry-1.docker.io
+54.144.128.90   registry.hub.docker.com
+52.202.40.115   hub.docker.com
+52.4.183.149    registry-1.docker.io
 35.169.242.14   auth.docker.io
-52.85.193.2     download.docker.com
-52.85.193.105   desktop.docker.com
-104.16.97.215   production.cloudflare.docker.com
-140.82.121.33   ghcr.io
-142.251.1.82    gcr.io
-172.217.218.82  k8s.gcr.io
-52.202.103.111  quay.io
+13.32.205.44    download.docker.com
+18.160.200.99   desktop.docker.com
+104.16.99.215   production.cloudflare.docker.com
+140.82.114.34   ghcr.io
+74.125.126.82   gcr.io
+74.125.202.82   k8s.gcr.io
+52.207.119.199  quay.io
 # Docker Hosts End
 # ING Hosts End
