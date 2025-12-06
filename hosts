@@ -3,61 +3,61 @@
 # CDN Url: https://gcore.jsdelivr.net/gh/zwrt/hosts@main/hosts
 # CDN Url: https://cdn.staticaly.com/gh/zwrt/hosts/main/hosts
 # DNS Servers: Aliyun Computing Co. Ltd
-# Update at: 2025-12-06 19:09:33
+# Update at: 2025-12-06 19:33:33
 # GitHub Hosts Start
 185.199.109.153 github.io
-140.82.112.4    github.com
+140.82.112.3    github.com
 192.0.66.2      github.blog
-140.82.113.17   github.community
-140.82.114.5    api.github.com
+140.82.114.18   github.community
+140.82.113.5    api.github.com
 140.82.112.3    gist.github.com
-140.82.112.9    codeload.github.com
-140.82.114.21   central.github.com
-140.82.114.21   collector.github.com
-185.199.110.133 raw.github.com
+140.82.114.9    codeload.github.com
+140.82.114.22   central.github.com
+140.82.114.22   collector.github.com
+185.199.109.133 raw.github.com
 185.199.111.154 docs.github.com
-185.199.110.133 raw.githubusercontent.com
-185.199.108.133 camo.githubusercontent.com
+185.199.109.133 raw.githubusercontent.com
+185.199.111.133 camo.githubusercontent.com
 185.199.108.133 cloud.githubusercontent.com
-185.199.111.133 media.githubusercontent.com
+185.199.109.133 media.githubusercontent.com
 185.199.110.133 desktop.githubusercontent.com
-185.199.109.133 objects.githubusercontent.com
-185.199.109.133 favicons.githubusercontent.com
-185.199.110.133 avatars5.githubusercontent.com
-185.199.108.133 avatars4.githubusercontent.com
-185.199.108.133 avatars3.githubusercontent.com
-185.199.108.133 avatars2.githubusercontent.com
-185.199.111.133 avatars1.githubusercontent.com
-185.199.110.133 avatars0.githubusercontent.com
+185.199.111.133 objects.githubusercontent.com
+185.199.111.133 favicons.githubusercontent.com
+185.199.111.133 avatars5.githubusercontent.com
+185.199.109.133 avatars4.githubusercontent.com
+185.199.109.133 avatars3.githubusercontent.com
+185.199.111.133 avatars2.githubusercontent.com
+185.199.108.133 avatars1.githubusercontent.com
+185.199.109.133 avatars0.githubusercontent.com
 185.199.108.133 avatars.githubusercontent.com
 185.199.110.133 user-images.githubusercontent.com
 138.91.182.224  copilot-proxy.githubusercontent.com
 185.199.110.154 github-releases.githubusercontent.com
 13.107.42.16    pipelines.actions.githubusercontent.com
 20.246.184.240  pipelinesghubeus7.actions.githubusercontent.com
-185.199.108.153 githubstatus.com
-140.82.112.21   collector.githubapp.com
+185.199.110.153 githubstatus.com
+140.82.114.22   collector.githubapp.com
 185.199.108.154 github.githubassets.com
-185.199.109.153 analytics.githubassets.com
-185.199.111.133 github.map.fastly.net
-146.75.121.194  github.global.ssl.fastly.net
-3.5.27.124      github-cloud.s3.amazonaws.com
-54.231.170.113  github-com.s3.amazonaws.com
-52.216.94.139   github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.48.225   github-production-user-asset-6210df.s3.amazonaws.com
-54.231.170.113  github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.110.153 analytics.githubassets.com
+185.199.108.133 github.map.fastly.net
+146.75.117.194  github.global.ssl.fastly.net
+54.231.199.121  github-cloud.s3.amazonaws.com
+3.5.29.144      github-com.s3.amazonaws.com
+52.216.213.105  github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.28.155      github-production-user-asset-6210df.s3.amazonaws.com
+52.217.87.172   github-production-repository-file-5c1aeb.s3.amazonaws.com
 # GitHub Hosts End
 # Docker Hosts Start
-44.217.237.199  registry.hub.docker.com
+107.23.156.245  registry.hub.docker.com
 172.64.144.69   hub.docker.com
-18.233.39.76    registry-1.docker.io
-44.205.109.198  auth.docker.io
-18.238.109.126  download.docker.com
-18.155.173.126  desktop.docker.com
-104.16.100.215  production.cloudflare.docker.com
-140.82.114.34   ghcr.io
-172.253.63.82   gcr.io
-142.251.167.82  k8s.gcr.io
-44.223.173.140  quay.io
+54.86.249.185   registry-1.docker.io
+107.23.156.245  auth.docker.io
+18.160.143.31   download.docker.com
+13.226.251.78   desktop.docker.com
+104.16.99.215   production.cloudflare.docker.com
+140.82.112.34   ghcr.io
+64.233.181.82   gcr.io
+192.178.212.82  k8s.gcr.io
+54.81.200.215   quay.io
 # Docker Hosts End
 # ING Hosts End
